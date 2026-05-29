@@ -1,0 +1,224 @@
+..................................                                34 / 34 (100%)
+<form enctype="multipart/form-data" method="POST" url="/">
+                                <!-- QUESTION FIELDSET #1 -->
+        <fieldset class="row mb-3">
+            <legend class="col-form-label col-sm-2 pt-0">Full Form Of CPU</legend>
+            <div class="col-sm-10">
+                                                            <div class="form-check">
+                        <input class="form-check-input" type="radio" name="quizQuestionAnswerInput[1]" id="question1gridRadio0" value="1">
+                        <label class="form-check-label" for="question1gridRadio0">
+                            central processing unit
+                        </label>
+                    </div>
+                
+            </div>
+        </fieldset>
+        <!-- END -- QUESTION FIELDSET #1 -->
+                                <!-- QUESTION FIELDSET #2 -->
+        <fieldset class="row mb-3">
+            <legend class="col-form-label col-sm-2 pt-0">Which of the below is a data structure?</legend>
+            <div class="col-sm-10">
+                                                            <div class="form-check">
+                        <input class="form-check-input" type="radio" name="quizQuestionAnswerInput[2]" id="question2gridRadio0" value="4">
+                        <label class="form-check-label" for="question2gridRadio0">
+                            for loop
+                        </label>
+                    </div>
+                                                            <div class="form-check">
+                        <input class="form-check-input" type="radio" name="quizQuestionAnswerInput[2]" id="question2gridRadio1" value="2">
+                        <label class="form-check-label" for="question2gridRadio1">
+                            array
+                        </label>
+                    </div>
+                                                            <div class="form-check">
+                        <input class="form-check-input" type="radio" name="quizQuestionAnswerInput[2]" id="question2gridRadio2" value="3">
+                        <label class="form-check-label" for="question2gridRadio2">
+                            object
+                        </label>
+                    </div>
+                                                            <div class="form-check">
+                        <input class="form-check-input" type="radio" name="quizQuestionAnswerInput[2]" id="question2gridRadio3" value="5">
+                        <label class="form-check-label" for="question2gridRadio3">
+                            method
+                        </label>
+                    </div>
+                
+            </div>
+        </fieldset>
+        <!-- END -- QUESTION FIELDSET #2 -->
+                                <!-- QUESTION FIELDSET #3 -->
+        <fieldset class="row mb-3">
+            <legend class="col-form-label col-sm-2 pt-0">How many layers in OSI model?</legend>
+            <div class="col-sm-10">
+                                                            <div class="form-check">
+                        <input class="form-check-input" type="radio" name="quizQuestionAnswerInput[3]" id="question3gridRadio0" value="8">
+                        <label class="form-check-label" for="question3gridRadio0">
+                            10
+                        </label>
+                    </div>
+                                                            <div class="form-check">
+                        <input class="form-check-input" type="radio" name="quizQuestionAnswerInput[3]" id="question3gridRadio1" value="6">
+                        <label class="form-check-label" for="question3gridRadio1">
+                            5
+                        </label>
+                    </div>
+                                                            <div class="form-check">
+                        <input class="form-check-input" type="radio" name="quizQuestionAnswerInput[3]" id="question3gridRadio2" value="9">
+                        <label class="form-check-label" for="question3gridRadio2">
+                            7
+                        </label>
+                    </div>
+                                                            <div class="form-check">
+                        <input class="form-check-input" type="radio" name="quizQuestionAnswerInput[3]" id="question3gridRadio3" value="7">
+                        <label class="form-check-label" for="question3gridRadio3">
+                            8
+                        </label>
+                    </div>
+                
+            </div>
+        </fieldset>
+        <!-- END -- QUESTION FIELDSET #3 -->
+    
+    <div>
+        <button type="submit" class="btn btn-lg btn-primary">Submit</button>
+    </div>
+
+</form>
+{
+    "quiz": {
+        "id": 1,
+        "name": "Computer Sceince Quiz",
+        "slug": "computer-science-quiz",
+        "description": "Test your knowledge of computer science",
+        "total_marks": 10,
+        "pass_marks": 6,
+        "max_attempts": 1,
+        "is_published": 1,
+        "media_url": "https:\/\/via.placeholder.com\/300x300.png\/007799?text=ea",
+        "media_type": "image",
+        "duration": 0,
+        "valid_from": "2023-02-07 19:14:02",
+        "valid_upto": "2023-02-12 19:14:02",
+        "time_between_attempts": 0,
+        "negative_marking_settings": {
+            "enable_negative_marks": true,
+            "negative_marking_type": "fixed",
+            "negative_mark_value": 0
+        }
+    },
+    "quizAttempt": {
+        "quiz_id": 1,
+        "participant_id": 1,
+        "participant_type": "Quiz\\Api\\Tests\\Models\\Author",
+        "id": 3,
+        "answers": [
+            {
+                "id": 7,
+                "quiz_attempt_id": 3,
+                "quiz_question_id": 1,
+                "question_option_id": 1,
+                "answer": "central processing unit"
+            },
+            {
+                "id": 8,
+                "quiz_attempt_id": 3,
+                "quiz_question_id": 2,
+                "question_option_id": 2,
+                "answer": null
+            },
+            {
+                "id": 9,
+                "quiz_attempt_id": 3,
+                "quiz_question_id": 2,
+                "question_option_id": 3,
+                "answer": null
+            },
+            {
+                "id": 10,
+                "quiz_attempt_id": 3,
+                "quiz_question_id": 3,
+                "question_option_id": 9,
+                "answer": null
+            }
+        ],
+        "quiz": {
+            "id": 1,
+            "name": "Computer Sceince Quiz",
+            "slug": "computer-science-quiz",
+            "description": "Test your knowledge of computer science",
+            "total_marks": 10,
+            "pass_marks": 6,
+            "max_attempts": 1,
+            "is_published": 1,
+            "media_url": "https:\/\/via.placeholder.com\/300x300.png\/007799?text=ea",
+            "media_type": "image",
+            "duration": 0,
+            "valid_from": "2023-02-07 19:14:02",
+            "valid_upto": "2023-02-12 19:14:02",
+            "time_between_attempts": 0,
+            "negative_marking_settings": {
+                "enable_negative_marks": true,
+                "negative_marking_type": "fixed",
+                "negative_mark_value": 0
+            }
+        }
+    },
+    "quizAttemptAnswers": [
+        {
+            "id": 7,
+            "quiz_attempt_id": 3,
+            "quiz_question_id": 1,
+            "question_option_id": 1,
+            "answer": "central processing unit"
+        },
+        {
+            "id": 8,
+            "quiz_attempt_id": 3,
+            "quiz_question_id": 2,
+            "question_option_id": 2,
+            "answer": null
+        },
+        {
+            "id": 9,
+            "quiz_attempt_id": 3,
+            "quiz_question_id": 2,
+            "question_option_id": 3,
+            "answer": null
+        },
+        {
+            "id": 10,
+            "quiz_attempt_id": 3,
+            "quiz_question_id": 3,
+            "question_option_id": 9,
+            "answer": null
+        }
+    ],
+    "quizAttemptAnswerCount": 4,
+    "quizAttemptScore": 15,
+    "validate": {
+        "1": {
+            "score": 5,
+            "is_correct": true,
+            "correct_answer": "central processing unit",
+            "user_answer": "central processing unit"
+        },
+        "2": {
+            "score": 5,
+            "is_correct": true,
+            "correct_answer": [
+                "array",
+                "object"
+            ],
+            "user_answer": [
+                "array",
+                "object"
+            ]
+        },
+        "3": {
+            "score": 5,
+            "is_correct": true,
+            "correct_answer": "7",
+            "user_answer": "7"
+        }
+    }
+}

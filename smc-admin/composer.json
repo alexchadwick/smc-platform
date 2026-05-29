@@ -1,0 +1,37 @@
+{
+    "name": "smc-dev/smc-admin",
+    "description": "SMC Admin",
+    "keywords": ["framework", "laravel"],
+    "license": "proprietary",
+    "require": {
+        "php": ">=8.0.2"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^7.0",
+        "phpunit/phpunit": "^9.0",
+        "laravel/passport": "^11.6",
+        "laravel/sanctum": "^3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Admin\\": "src/",
+            "Admin\\Api\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Admin\\Api\\Tests\\": "tests"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Admin\\AdminServiceProvider"
+            ]
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
+    }
+}

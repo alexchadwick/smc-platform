@@ -1,0 +1,5 @@
+id,name,description,version_slug,attachment_file_size,attachment_file_name,attachment_location,attachment_content_type,parent_id
+1,"Sample Media01","Sample Media01","1.0.0","1000","1111.pdf","attachments/1111.pdf","application/pdf",
+3,"Sample Media02","Sample Media02","1.0.0","1000","2222.pdf","attachments/2222.pdf","application/pdf",
+4,"Sample Media03","Sample Media03","1.0.1","1000","3333.pdf","attachments/3333.pdf","application/pdf",
+4,"Sample Media04","Sample Media04","1.0.0","1000","mov.mp4","attachments/mov.mp4","video/mp4",

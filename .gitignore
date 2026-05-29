@@ -1,0 +1,69 @@
+# ─── Dependencies (regeneratable via composer install / npm install) ───
+node_modules/
+vendor/
+**/node_modules/
+**/vendor/
+
+# ─── Secrets / credentials (NEVER upload) ───
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+oauth-private.key
+oauth-public.key
+**/storage/oauth-*.key
+id_rsa
+id_rsa.pub
+
+# ─── Laravel runtime / generated ───
+**/storage/logs/*
+**/storage/framework/cache/*
+**/storage/framework/sessions/*
+**/storage/framework/views/*
+**/storage/*.sqlite
+**/bootstrap/cache/*
+**/public/build/
+**/public/hot
+**/public/storage
+
+# ─── Build output ───
+dist/
+build/
+.cache/
+
+# ─── Large demo / presentation media (exceed or bloat GitHub's limits) ───
+DEMO.key
+DEMO2.key
+DEMO.pdf
+DEMO2.pdf
+DEMO2F.pdf
+DEMO2notes.pdf
+DEMO.pptx
+DEMO2.pptx
+*.mp4
+*.mov
+*.zip
+
+# ─── macOS junk ───
+.DS_Store
+**/.DS_Store
+._*
+**/._*
+.AppleDouble
+.LSOverride
+
+# ─── IDE ───
+.idea/
+.vscode/
+*.iml
+
+# ─── Logs ───
+*.log
+npm-debug.log*
+
+# ─── GCP / cloud service-account credentials (contain private keys) ───
+**/spring-cab-*.json
+*-service-account*.json
+**/storage/app/google/*.json
+google-credentials*.json

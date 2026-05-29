@@ -1,0 +1,64 @@
+id,quiz_id,name
+1,1,When do you become eligible for PTO? 
+2,1,When do you become eligible for paid sick time off? 
+3,1,Can you use PTO to cover sick days? 
+4,1,How are employees compensated for PTO? Choose all that apply. 
+5,1,When should I request PTO? 
+6,2,"How do I ask for short periods of time off, not vacation time or PTO? "
+7,2,How much advance notice must I give for a Time Off Request? 
+8,2,How do I know my time off request has been approved? 
+9,2,Can I submit a Time Off Request with less than two weeks notice? 
+10,2,What happens when I take time off without approval? 
+11,3,How must I dress to be in compliance with Good Manufacturing Practices? 
+12,3,What risk does jewelry or dangling accessories pose in production? 
+13,3,What do the GMPs say about tobacco use? 
+14,3,Do the Good Manufacturing Practices regulate chewing gum or eating food in production areas? 
+15,3,What should I do if I am diagnosed with a foodborne illness? Choose all that apply. 
+16,3,How can we protect food product from being contaminated by sanitizers and cleaners? 
+17,3,"How do I know when to clean or sanitize equipment, containers, racks, etc? Choose all that apply. "
+18,3,What do the GMPs say about walkways in the facility? 
+19,3,How do the GMPs regulate storage? 
+20,3,What do the GMPs say about allergen cross-contamination prevention? 
+21,4,Who are the correct supervisors or managers to contact for calling off work? 
+22,4,What is the extention of the office phone number I should call if I cannot make it to work? The office phone number is 248-246-6410 and the extension for call offs is _______? 
+23,4,What information should I leave in the event of a call off? 
+24,4,What should I do if I am unable to reach my supervisor to inform them of my absense? Choose all that apply. 
+25,4,What makes a Call Off different from Time Off? 
+26,5,What is the length of Steve's probationary period? 
+27,5,How many absences can an employee incur within the first 90 days of employment before they are terminated due to excessive absenses? Choose all that apply. 
+28,5,How many absences can an employee incur within the first 14 days of employment before they are terminated due to excessive absences? Choose all that apply. 
+29,5,"If I am fired due to excessive absences within my probationary period, how will I be compensated for my logged work hours? "
+30,5,What is the difference between an excused absense and an unexcused absence? Choose the BEST response. 
+31,6,When do I become eligible for Health Insurance through Steve's? 
+32,6,What plans are available? 
+33,6,How do I enroll in health insurance once I become eligble? 
+34,6,What are the costs associated with company insurance? 
+35,6,Are my dependents covered under the company health insurance plans? 
+36,7,What Holidays will Steve's always be closed on? 
+37,7,What are Blocked Dates? 
+38,7,Can I request off Holidays that Steve's will not be closed on? 
+39,7,How can I make a request for Time Off related to religious observances? Choose all that apply. 
+40,8,Select from the following options all examples of what is considered inappropriate workplace behavior: 
+41,8,Select from the following options all examples of what is considered inappropriate workplace behavior: 
+42,8,Are there forms of misconduct not listed in the handbook at that may also result in displinary action? 
+43,8,What is the discplinary action that may follow breaking Steve's Standards of Conduct? 
+44,9,Is there a uniform at Steve's Mediterranean? How do I order them? 
+45,9,Choose from the following all options that are considered inappropriate workplace attire: 
+46,9,Choose from the following all examples of proper workplace attire: 
+47,9,What should I be aware of when dressing for work each day? 
+48,9,What will happen if I show up to work inappropriately dressed? 
+49,10,Does Steve's have Worker's Compensation for injuries on the job? 
+50,10,What should I do if I hurt myself or I witness a co-worker injur themselves or almost injur themselves and/or others? Choose all that apply. 
+51,10,What is the procedure for documenting injuries or close calls? 
+52,10,How can I follow up on a work incident to ensure compliance with company policy? 
+53,11,How do I clock in and out for work? 
+54,11,What if I think there is a discepency in my hours worked? 
+55,11,How can I view my hours worked for a payperiod? 
+56,12,What is the pay schedule at Steve's? 
+57,12,What period of time is covered in a paycheck? 
+58,12,How is pay distributed? 
+59,13,Does Steve's Mediterranean currently require employees to be vaccinated against COVID-19? 
+60,13,How does Steve's determine policy regarding COVID-19? 
+61,13,Are masks required at Steve's Mediterranean? 
+62,13,What symptoms should I be highly vigilant against? Choose all that apply. 
+63,13,What COVID resources are available at Steve's? 

@@ -1,0 +1,251 @@
+id,question_id,name,is_correct
+1,1,"After 1 year of service, employees are eligible for 5 days of PTO. ",1
+2,1,"After 6 months, employees earn 5 days of PTO. ",0
+3,1,PTO is immediately accessible after hiring. ,0
+4,1,There is no PTO offered. ,0
+5,2,"After 2 years of service, employees are eligible for 5 sick days. ",1
+6,2,"After 3 months, employees earn 5 sick days. ",0
+7,2,Paid sick time is immediately available to employees. ,0
+8,2,There is no sick time offered. ,0
+9,3,"No, you cannot use PTO to cover sick days. ",1
+10,3,"Sick days require a doctor's note; therefore, PTO can be used on sick time as long as there is a doctor's note provided. ",0
+11,3,"PTO can be used for personal time; therefore, PTO can be used to cover any instance as long as it is available. ",0
+12,3,PTO is sometimes paid using special forms of compensation. ,0
+13,4,PTO is paid at employees base pay rate at the time of absense. ,1
+14,4,Hourly workers are paid according the average number of hours worked. ,1
+15,4,PTO is never paid using special forms of compensation like bonuses. ,1
+16,4,"PTO is never used to cover accidents and illnesses that fall under Worker's Compensation Insurance, pursuant to the requirements of Michigan law. ",1
+17,5,"As soon as possible, but particularly during January following HR's yearly reminder to submit PTO to ensure approval of your requested dates. ",1
+18,5,Two weeks before your requested time off. ,0
+19,5,Whenever you remember you are eligible for PTO. ,0
+20,5,The day before you would like to use your PTO. ,0
+21,6,"Request a Time Off Request form from HR, fill out the form in its entirety, return it to HR, and await approval. ",1
+22,6,Send HR an email asking for time off. ,0
+23,6,Send your supervisor a text message and ask if you can have the day off. ,0
+24,6,Text your coworker and ask them to tell your supervisor that you will not be at work. ,0
+25,7,"You must give two weeks notice. If it is an emergency, please inform your supervisors and make your request ASAP. ",1
+26,7,No notice is necessary and all time off requests are automatically approved. ,0
+27,7,You do not need to submit a request ahead of time to take off work. ,0
+28,7,"There is no one depending on me to show up, so advance notice is not required. ",0
+29,8,"When your time off request has been approved, HR will return the form to you, signed and dated by the supervisor who approved your time off.  ",1
+30,8,"Once you have submitted the completed form, you are approved. ",0
+31,8,Verbal approval from a supervisor or HR represenative is sufficient. ,0
+33,8,There is no approval process for single day time off requests. ,0
+34,9,No. Time Off Requests submitted with less than 2 weeks notice will be automatically denied. ,1
+35,9,Yes because Time Off Requests cannot be denied. ,0
+36,9,Yes because Time Off Requests do not require processing by HR and plant management. ,0
+37,9,"Since I am close friends with my coworkers, I am excempt from company policy. ",0
+38,10,Steve's Mediterranean has a disciplinary process that holds employees accountable for knowingly breaking company policy. This can mean suspension or termination. ,1
+39,10,Nothing happens when I take time off without approval. ,0
+40,10,"Refusing to call in an absense or otherwise notify HR of my absense is no big deal, and I should not be concerned if I have a poor attendance record. ",0
+41,10,I will be fired immediately if I do not show up to work. ,0
+42,11,Non-slip shoes ,0
+43,11,"Hair and beard restraints at all times, and frocks when processing food ",1
+44,11,Steve's Mediterranean custom uniforms ,0
+45,11,"Jewelry, press-on nails, necklaces ",0
+46,12,The risk is in these accessories touching or falling into the food. It poses a physical hazard (i.e. earring in the food) and a biological hazard (i.e. bacteria from items transfering into the food). ,1
+47,12,"There is no risk, and I do not need to ensure jewelry or other dangling items on my person are secure or removed. ",0
+48,12,The risk is in losing something precious or expensive. ,0
+49,12,The risk is limited so I should not be concerned. ,0
+50,13,Tobacco use is STRICTLY PROHIBITED anywhere inside the facility and within 50 ft of the building. ,1
+51,13,"Tobacco use is limited, but allowed in some instances. ",0
+52,13,Tobacco use is not limited. ,0
+53,13,Steve's Mediterranean is not concerned about where or when you smoke tobacco. ,0
+54,14,"Yes, the GMPs state no use of gum in the facility and no food in the facility. Eating and drinking can only be done in the break room or offices. ",1
+55,14,"No, chewing gum while in the production area is not regulated by the GMPs. ",0
+56,14,"No, food and drink while in the production area is not regulated by the GMPs. ",0
+57,14,Steve's Mediterranean is not concerned about where or when you eat food or chew gum. ,0
+58,15,"Report any illness due to Salmonella, Shigella, E-Coli, Hepatitis A or norovirus or ANY OTHER food borne illness to Management immediately, particularly if there is a concern that you exposed others in the facility or the food. ",1
+59,15,"If you have symptoms of any illness, we respectfully ask you to go to an urgent care or your physician for an evaluation or diagnosis to report to HR. Either the employee, a  doctor, or the administration at Steve's will determine that the employee is too sick to be at work. Because illness can be so debilitating, we ask that everyone maintain a high level of personal hygeine and self-awareness to prevent Steve's facility from becoming a hot spot for contagions. This concern is for the health and well-being of everyone who comes through the building as  well as our customers. ",1
+60,15,You do not need to inform Steve's Mediterranean if you are infected with a foodborne illness. ,0
+61,15,"Since illness is a personal issue, as long as you do not show up to work with symptoms, you do not need to report your illness to Steve's. ",0
+62,16,Food storage containers or racks must be covered or stored away during cleaning and sanitation processes.  You should think about whether something used to hold or process food could have residue of chemicals and sanitizer before food product is placed in the container. Rinsing off a container is an easy step we can take in instances where we are unsure of how clean something is. ,1
+63,16,"We should not be concerned about protecting food storage containers, racks and anything that will touch the food. ",0
+64,16,Food storage containers or racks can be sprayed down with soaps and sanitizers with no concern as the sanitizers used at Steve's are intended for use in a food manufacturing environment. ,0
+65,16,Food storage containers should be cleaned last to prevent residue or sprays of water/sanitizer from ending up in the food. ,0
+66,17,"All cleaning operations at Steve's have a corresponding SSOP or Sanitation Standard Operating Procedure. These SSOPs are documents that can usually be found on clipboards around the area the  sanitation process must be completed in. These SSOPs are intended to be used as aids by employees. If you do not see them, please ask a supervisor. ",1
+67,17,"I can look at equipment, food containers, or the work space around me to determine whether or not it needs to be cleaned. I should always feel comfortable pointing out when equipment, containers, or the work space around me is dirty. Cleanliness is of high importance at Steve's and my diligence is appreciated. ",1
+68,17,"Cleaning and sanitizing operations should happen daily, except for when otherwise specified on an SSOP. ",1
+69,17,I should not be concerned about the cleanliness of my work space. ,0
+70,18,The GMPs say that the facility should maintain walkways free of debris to avoid accidental injury and maintain personal safety. ,1
+71,18,The GMPs do  not make note of walkways. ,0
+72,18,The GMPs say walkways should be maintained but does not specify in what way they should be maintained or why. ,0
+73,18,Walkways are not necessary at Steve's. ,0
+74,19,"The GMPs state that all storage, from raw materials to packaging to final product, must be kept off the floor. ",1
+75,19,The GMPs do not make note of storage. ,0
+76,19,"The GMPs state that materials should be stored in cool, dark and dry places. ",0
+77,19,Proper storage is not important at Steve's.  ,0
+78,20,"The GMPs state that an allergen cross-contamination prevention program must be in effect at all times. The GMPs do not go into detail on how this is done, as it is highly specific to our facility and our operations. However, all employees should be aware of the allergens held at Steve's and the importance of controlling allergens to protect our customers. ",1
+79,20,The GMPs do not make note of allergens or allergen programs. ,0
+80,20,"The GMPs state that as long as we say our products were manufactured in a facility that processes allergens, we do not need to be concerned about allergens. ",0
+81,20,"If no one in the building is allergic to our ingredients, we do not need to be concerned about allergens. ",0
+82,21,"The correct person to contact in the event of a Call Off may vary. However, employees should always call Christina's office line to speak to her or leave a message, as well as their direct supervisor which will depend on the department. ",1
+83,21,"There is no correct person, I should just let anyone who works at Steve's know and assume it will get to the right ears. ",0
+84,21,"As long as I tell my coworker, I will be covered. ",0
+85,21, I should contact the owner directly on his cell phone. ,0
+86,22,The extension I should call in the event of a Call Off that will take me to Christina is x 107. ,1
+87,22,"As long as I choose an extension and leave a message at an office line, I can assume my message reached the correct person. ",0
+88,22,The correct extension is irrevent because I only need to email or text my supervisor. ,0
+89,22,There are no necessary extensions to keep on file or memorize. ,0
+90,23,"If you have to leave a voice message because Christina and/or your supervisor are unavailable, employees must leave their name, an explanation, an expected date and time back at work, and a phone number they can be reached at. ",1
+91,23,"If you call and no one is available, there will be a missed call log so you can assume someone will call you back to collect the necessary info. ",0
+92,23,I do not need to leave a message if my supervisor and/or Christina do not answer when I call. ,0
+93,23,"When I call, the only information that will be asked of me is whether or not I will be in that day. ",0
+94,24,"If I am unable to reach my supervisor, I must ensure I connect with Christina to inform Steve's of my absense. ",1
+95,24,"If I am unable to reach my supervisor, I should leave a message for them. ",1
+96,24,"If I call my supervisor and they do not answer, I have done all that I can do and can stop there. ",0
+97,24,I should not be concerned about letting management at Steve's know when I will unexpectedly not be at work. ,0
+98,25,A Call Off is different from a Time Off because it has not gone through a request and approval process. Call Off is the term we use at Steve's to describe the event where an employee informs us right before or at the start of their shift that they will not be present for that day or will be extremly late. ,1
+99,25,Call Offs and Time Offs are different phrases for the same event. ,0
+100,25,Call Offs have been approved by management and Time Offs have not been approved by management. ,0
+102,25,A Call Off is different from a Time Off because Call Offs are unpaid and Time Offs are paid. ,0
+103,26,There is a 3 month probationary window at Steve's during which the New Employee Attendance Policy is in effect. It starts at the first day a new hire works and runs for 90 days. ,1
+104,26,The probationary period at Steve's during which the New Employee Attendance Policy is in effect is 30 days long. ,0
+105,26,There is no probationary period. ,0
+106,26,The probationary period lasts until I have perfect attendance according to the New Employee Attendance Policy. ,0
+107,27,"If you incur more than 3 unexcused absences within the first 90 days of employment at Steve's, you will be automatically terminated. ",1
+108,27,There is an infinite number of absences allowed within the first 90 days of employment. ,0
+109,27,There are no absences allowed within the first 90 days of employment. ,0
+110,27,"Since excused absences are allowed with the probationary period, as long as I follow proper protocol, I will not be terminated for absences during my probationary period. ",1
+111,28,"If you incur one unexcused absense during the probationary period in the first two weeks of working at Steve's or within 14 days of your hire date,  you will be terminated automatically due to breaking the New Employees Attendance Policy. ",1
+112,28,"Since excused absences are allowed with the probationary period, as long as I follow proper protocol, I will not be terminated for absences during my probationary period. ",1
+113,28,There are an infinite number of absences allowed within 2 weeks of my hire date. ,0
+114,28,"I can Call Off work once during my probationary period, but face disciplinary action when I do it agan. ",0
+115,29,"If I am terminated during their probationary period due to violating the terms of the New Employees Attendance Policy, I will be paid out on the next pay day at the rate of the current minimum wage in the State of Michigan. At the time of this quiz's last edit, this wage is $9.87 an  hour. ",1
+116,29,"If I am terminated during the first 90 days of employment at Steve's due to violating the terms of the New Employees Attendance Policy, I will be paid out at the time of termination for the wage I was hired under. ",0
+117,29,"If I am terminated during the probationary period of 90 days, I will be paid out at the next pay date at Michigan's minimum wage. ",0
+118,29,"If I am terminated during the probationary period of 90 days, I will not be paid. ",0
+119,30,"An excused absence is defined as an abense from work that has gone through a request and approval process. Your absence is excused if you requested the Time Off by filling out the proper paperwork and turning it in to the proper channels and were approved for that Time Off under conditions such as returning with a Doctor's note. An unexcused absence is any absence that was not requested or not approved, or an absence that was approved but whose conditions were not met, such as not returning with a Doctor's note. ",1
+200,30,An excused absence is one that has been signed off by Christina and an unexcused absence is one that was not signed off by Christina. ,0
+201,30,"There is no difference, an absence is an absence. ",0
+202,30,Steve's is not interested in clear communication and setting expectations. ,0
+203,31,Employees become eligble for health insurance coverage under the company plans 90 days after their hire date. ,1
+204,31,Employees become eligble for health insurance coverage under the company plans immediately. ,0
+205,31,Employees become eligible for health insurance coverage under the company plans after 20 days. ,0
+206,31,Steve's Mediterranean does not offer employees health insurance coverage. ,0
+207,32,"There are plans available through Blue Cross Blue Shield of Michigan and The Blue Care Network. All plans offer medical, dental, pediatric dental and pediatric vision. I can access the details of these plans and the breakdown of their benefits and costs when I register with CoverageForCompanies.com as a Steve's Mediterranean employee once I become eligble. ",1
+208,32,There is only one plan and you have no choice. ,0
+209,32,There are as many options as if you used the Health Insurance Marketplace to enroll in an insurance plan. ,0
+210,32,There are no plans available. ,0
+211,33,You will enroll for health insurance using a third party insurance broker and their platform CoverageForCompanies. Hotline assistance will be available and is provided by this third party. ,1
+212,33,HR will enroll for you. ,0
+213,33,You will be automatically enrolled when you hit the 3 month mark. ,0
+214,33,You will be automatically enrolled on the date you are hired. ,0
+215,34,The costs associated with company insurance (other than your copays or other out of pocket costs of your specific plan) include a per paycheck health insurance deduction that will be used to pay your half of the insurance plan costs. Steve's Mediterranean will cover 50% of the cost of your monthly premium only. ,1
+216,34,There are no costs associated with company health insurance. The company covers all of my health insurance and medical needs. ,0
+217,34,There is no way to calculate what the costs will be.  ,0
+218,34,Employees will be expected to cover 25% of their monthly health insurance premium. ,0
+219,35,"No, Steve's Mediterranean does not cover the costs of any dependents enrolled in your plan. 100% of your dependents' health insurance premiums will be the employee's responsibility. ",1
+220,35,Yes. ,0
+221,35,"Yes, but only 50% of the dependents premium will be covered. ",0
+222,35,"Yes, but only 25% of the dependents premium will be covered. ",0
+223,36,"Steve's observes the following paid Holidays: Labor Day, Thanksgiving Day, and Christmas Day. Most Holidays are when the food industry is at its busiest. It is the nature of this industry to be busier and more active at work during Holiday seasons. ",1
+224,36,Steve's is open 24/7 365. ,0
+225,36,Steve's does not observe any Holidays. ,0
+226,36,Steve's expects to be less busy during the Holiday seasons and tends to be more lax about Time Off and absences during this time. ,0
+227,37,"Blocked dates are dates Steve's Mediterranean has blocked off to prevent employees for planning vacations or requesting time off during the months of November, December, January and February due to our exponential increase in business during these four months. ",1
+228,37,"The blocked dates are in June, July, August and September. ",0
+229,37,"Blocked dates are dates that Steve's Mediterranean allows for training days, so you cannot take off work on those days. ",0
+230,37,There are no blocked dates for PTO or Time Off Requests. ,0
+231,38,"While employees may always submit a Time Off Request, they should know that work increases and employee demand is highest at Steve's Mediterranean around major US Holidays. It is highly unlikely to get PTO or Time Off approved before, on, or after Holidays. ",1
+232,38,Holidays are not a point of contention in scheduling at Steve's. ,0
+233,38,I should not be expected to work on Holidays at Steve's. ,0
+234,38,"Yes, we always approve PTO and  Time Off Requests scheduled around or on major US Holidays. ",0
+235,39,"If you strictly observe certain Holidays due to your religious affiliation, please inform the office administrator or HR during your on-boarding to discuss accomodations and set expectations.  ",1
+236,39,"All Time Off and PTO requests are approved or rejected for the same reasons and following the same policies for all employees. The factors that determine approval or rejection are seniority, blocked dates, Holidays, and employee attendance record. ",1
+237,39,"You should ignore all previous policy and assume because it is a religious Holiday, that it will not create conflict in scheduling. ",0
+238,39,You can not request Time Off due to a religious Holiday. ,0
+239,40,Theft or inappropriate removal/possession of property ,1
+240,40,Falsification of timekeeping records ,1
+241,40,"Possession, distribution, sale, transfer, manufacture or use of alcohol or drugs in the workplace. ",1
+242,40,Fighting or threatening violence in the workplace ,1
+243,41,Making maliciously false statements about co-workers ,1
+244,41,"Threatening, indimidating, coercing, or otherwise interfering with the job performance of fellow employees or visitors ",1
+245,41,Negligence or improper conduct leading to damage of company-owned property ,1
+246,41,"Violation of safety or health rules, smoking in the workplace, excessive absenteeism ",1
+247,42,"Yes, the list of inappropriate behavior is a general guideline to help employees make good choices at work. It is not an exhaustive list, and employees are expected to use common sense.",1
+248,42,"No, if an action or behavior is not listed in the Handbook, I cannot be disciplined. ",0
+249,42,"No, the Handbook has an exhaustive list with every possible form of inappropriate workplace behavior. ",0
+250,42,Yes and there are some behaviors listed in the Handbook as inappropriate that may not result in disciplinary action. ,0
+251,43,"Following breaking the Standards of Conduct, Steve's Mediterranean will determine the course of action by evaluating your specific case. The most likely course of action will be suspension without pay, followed by termination if the behavior persists, or immediate termination based on the behavior or action. ",1
+252,43,There is no disciplinary action taken against employees who break the Standards of Conduct. ,0
+253,43,The disciplinary action is always immediate termination. ,0
+254,43,The disciplinary action is always immediate suspension without pay. ,0
+255,44,"There is no official universal uniform at Steve's. While there are purple polos, black button-ups, purple t-shirts, and white and black frocks that Steve's can order on behalf of employees, you may have to pay a fee, purchase them outright, or sign a log that will track what you have been given with the expectation that you will eventually return them. You do not need to wear Steve's shirts or polos to work, although it is recommended. As long as you are neat, warm, and clean,  your supervisor will be happy. ",1
+256,44,Steve's requires that all employees where the official purple polos and blue jeans to work. ,0
+257,44,Steve's requires that all employees where black button-ups and khakis to work. ,0
+258,44,Steve's does not have requirements for personal appearance related to attire. ,0
+259,45,Clothing emitting excessive marijuanna odor ,1
+260,45,"Excessively revealing clothing, exposed undergarments ",1
+261,45,Tank tops ,1
+262,45,Clothing with offensive or vulgar language or graphics ,1
+263,46,Button-down shirts or Polos ,1
+264,46,"Jeans, Khakis, Slacks",1
+265,46,Company approved uniforms and non-slip shoes ,1
+266,46,"Hair and beard nets, with long hair tied up and completely covered with a hairnet or clothing. ",1
+267,47,"When dressing for work, please consider the cold food processing environment you will be working in and the Handbook guidelines regarding personal appearance. ",1
+268,47,You should NOT dress with intention to come to work. ,0
+269,47,Steve's Mediterranean is NOT concerned about your personal appearance when you are at work representing the company. ,0
+270,48,"If you come to work inappropriately dressed, you may be asked to return home and change before coming back to work. ",1
+271,48,"If you come to work inappropriately dressed, you will never be asked to return home to change and return to work. ",0
+272,48,"If you come to work inappropriately dressed, we will have an alternative at the facility for you  to wear. ",0
+273,49,"Steve's Mediterranean does have company Worker's Compensation Insurance. In the event that you are injured at work, you should know that Steve's will support you in seeking medical care. ",1
+274,49,"Steve's Mederranean does not offer Worker's Compensation Insurance which means if you are injurred on the job, you will have no support from Steve's in seeking medical care. ",0
+275,49,Steve's does have Worker's Compensation but does not support employees who need to file a claim. ,0
+276,49,Steve's Mediterranean is not concerned if you are injurred on the job and has no written policy on what to do in the event of an onsite injury. ,0
+277,50,"If you are injured or you witness someone else's injury, you should evaluate whether or not an ambulance or 911 should be called, or if the injured party should be driven to our company's designated Urgent care - Concentra on Maple Road. Following the injured party's treatment, all witnesses and injured parties will be asked to fill out an Incident Report. ",1
+278,50,"If you are injured or you witness someone else's injury, you should evaluate whether or not an ambulance or 911 should be called, or if the injured party should be driven to our company's designated Urgent care - Concentra in Auburn Hills. ",
+279,50,"In the case of a Close Call, please report what happened to almost injur yourself or others to your supervisor immediately. They will request that you and any witnesses fill  out an Incident Report, and this Report will trigger re-training processes that are intended to prevent work place injury. Employee vigilance  and care is valued and appreciated. ",1
+280,50,"In case of a Close Call, please do not say anything because it is embarrassing to point out the mistakes of co-workers. ",0
+281,51,The procedure for documenting close calls or workplace injuries is to fill out an Incident Report with your supervisor that describes in your own words what you witnesses or what happened to you. ,1
+282,51,The procedure for documenting close calls or workplace injuries is to verbally relay the incident to your supervisor. ,0
+283,51,The documenting procedure for workplace incidents is not an official written policy so it will depend on your supervisor. ,0
+284285,51,There is no documenting procedure for workplace incidents like onsite injuries or Close Calls. ,0
+286,52,"Follow up is only necessary if you are the injured party. If you are the injured party,  you should keep Steve's up to date on changes in your condition or evaluation by Concentra medical staff so that we are properly accomodating you while you recover. We will follow up with you until you are given a clean bill of health. ",1
+287,52,Follow is never necessary. ,0
+288,52,"Steve's only needs to know if you need accomodations at work due to your injury. Once those accomodations are given, there is no need to update Steve's. ",0
+289,52,Witnesses to injuries and Close Calls must check in with their supervisors 3 days after the Incident. ,0
+290,53,We use a Time Keeping clock and program from uAttend that uses a four digit number or your fingerprint to clock in and out that logs your hours worked. ,1
+291,53,We use an old fashioned card punch to track hours. ,0
+292,53,We do not track your hours. ,0
+293,53,Your supervisor tracks your hours for you. ,0
+294,54,"Please inform HR to any discepencies in your pay as soon as you suspect an error has been made. The sooner these issues are caught and explained, the sooner they are resolved. ",1
+295,54,"If you believe you have mislogged hours, there is no processes for having your hours reviewed. ",0
+296,54,It is never possible for there to be a discrepency in your hours paid. ,0
+297,54,You should not review your paystub. ,0
+298,55,Your logged hours will be visible on your paystub. You may also request a print out of your uAttend logs from HR. ,1
+299,55,You have to calculate your logged hours for a  payperiod by dividing the gross pay by your pay rate. ,0
+300,55,You cannot determine your hours through your paystub. ,0
+301,55,You cannot determine your hours through any method other than requesting the logs from HR. ,0
+302,56,"Paychecks are distributed on Fridays, on a biweekly schedule. This means you are paid every two weeks. ",1
+303,56,Paychecks are distributed every two weeks on Monday morning. ,0
+304,56,Paychecks are distributed once a month. ,0
+305,56,"Paychecks are distributed irregularly, that is, you will never know when to expect a payment. ",0
+306,57,"At Steve's, your biweekly paycheck covers a two week period of work and is listed on the top right of your paystub. ",1
+307,57,"Since we are paid irregularly at Steve's, you will have to look at the paystub to determine the period of time your paycheck covers. ",0
+308,57,A biweekly paycheck only covers your earned wages from the previous week. ,0
+309,57,A biweekly paycheck covers your earned wages from the previous four weeks. ,0
+310,58,"The preferred method of payment is Direct Deposit. If you give us your banking information, on Friday morning your pay will be automatically deposited into your bank account as cash. You may also choose to pick up a phsyical check on Friday morning, but there is a $5 processing fee deducted from your paycheck. ",1
+311,58,"We pay all employees in special compensation, not with checks. ",0
+312,58,"We pay all employees via Direct Deposit only, no exceptions. ",0
+313,58,We do not pay employees. ,0
+314,59,"No. While it is not required to work here, Steve's Mediterranean HIGHLY RECOMMENDS the Covid-19 vaccine and all other vaccines as recommended by your phyiscian and the medical community at large. ",1
+315,59,Yes. COVID-19 vaccination and boosters are required to work at Steve's Mediterranean. ,0
+316,59,"There is no concern for COVID-19 at Steve's, as management considers the pandemic to be hoax. ",0
+317,59,"In some instances it may be required, and in other instances it is not required. ",0
+318,60,Steve's currently follows and will follow in the future WHO and CDC guidelines and recommendations for businesses operating during all epidemics and pandemics. ,1
+319,60,Steve's makes its own rules based on the personal opinions of management. ,0
+320,60,There is no science or thought put into Steve's COVID-19 policy. ,0
+321,60,"Since there is no concern for disease or illness at Steve's, the policies are basically just legal coverage in case someone does get sick. ",0
+322,61,"Masks are not currently mandated, although they were at one point and may be mandated again. However, we encourage employees to wear a mask and many employees choose to wear a mask even though it is not mandated by management. ",1
+323,61,"Yes, masks are required to be worn at all times.",0
+324,61,"Yes, masks are handed to employees as they walk into the building and are intended to be worn along with hair restrains and aprons. ",0
+325,61,"No, and masks have never been mandated by management and they will never require me to wear a mask to work here. ",0
+326,62,"Fever or chills, cough, shortness of breath or difficulty breathing, fatigue",1
+327,62,"Headaches, new loss of taste or smell, sore through, congestion or running nose",1
+328,62,"Blue or purple lips, yellowish looking schlera or white part of the eye",0
+329,62,"Nausea or vomiting, diarrhea ",1
+330,63,"Steve's may be able to provide you with scientific information regarding the disease, personal protective equipment, and/or a rapid COVID-19 test. ",1
+331,63,Steve's does not offer any COVID-19 resources. ,0
+332,63,Steve's does not track the latest news on COVID-19. ,0
+333,63,Steve's can distribute vaccines to employees who request it. ,0

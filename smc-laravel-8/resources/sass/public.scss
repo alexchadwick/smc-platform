@@ -1,0 +1,402 @@
+
+//@import '~bootstrap/dist/css/bootstrap.min.css';
+
+// Fonts
+//@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+//@import "variables";
+
+// Bootstrap
+//@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap');
+
+body {
+    background-color: #fff;
+    font-family: 'Roboto', sans-serif
+}
+
+.h1, h1, .h2, h2, .h3, h3, .h4, h4, .h5, h5 {
+  font-family: 'Roboto', sans-serif
+}
+
+//Text Theme
+.text-theme {
+  color: #76be43 !important;
+}
+
+//Btn Theme
+.btn-theme {
+  background-color: #76be43 !important;
+  border-color: #76be43 !important;
+}
+
+.btn-theme:hover, .btn-theme:focus, .btn-theme:active  {
+  background-color: #5d9635 !important;
+  border-color: #5d9635 !important;
+}
+
+//Content Title
+.content-title {
+    font-weight: 900 !important;
+}
+
+.h1.content-title, h1.content-title {
+    font-size: 2.5em;
+}
+.h2.content-title, h2.content-title {
+    font-size: 2em;
+}
+.h3.content-title, h3.content-title {
+    font-size: 1.5em;
+}
+.h4.content-title, h4.content-title {
+    font-size: 1.35em;
+}
+.h5.content-title, h5.content-title {
+    font-size: 1em;
+}
+.h6.content-title, h6.content-title {
+    font-size: .75em;
+}
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) {
+  .h1.content-title, h1.content-title {
+    font-size: 3em;
+  }
+  .h2.content-title, h2.content-title {
+    font-size: 2.5em;
+  }
+  .h3.content-title, h3.content-title {
+    font-size: 2em;
+  }
+  .h4.content-title, h4.content-title {
+    font-size: 1.75em;
+  }
+  .h5.content-title, h5.content-title {
+    font-size: 1.5em;
+  }
+  .h6.content-title, h6.content-title {
+    font-size: 1.25em;
+  }
+}
+
+@media (min-width: 768px) {
+  .h3.content-title.content-title-extra, h3.content-title.content-title-extra {
+    font-size: 2em;
+  }
+  .h4.content-title.content-title-extra, h4.content-title.content-title-extra {
+    font-size: 1.75em;
+  }
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+  .h3.content-title.content-title-extra, h3.content-title.content-title-extra {
+    font-size: 2.5em;
+  }
+  .h4.content-title.content-title-extra, h4.content-title.content-title-extra {
+    font-size: 2.25em;
+  }
+}
+
+//Navbar
+.navbar-theme {
+  box-shadow: 0px 6px 10px -5px #33333373;
+}
+.navbar-header-section {
+  background-color: #146bb0;
+  min-height: 30px;
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  padding-bottom: 5px;
+}
+.navbar-header-section > .container {
+  padding-bottom: 0;
+}
+.navbar-header-section p {
+  margin: 0;
+  padding: 0;
+  padding-top: 5px;
+}
+.navbar-header-section a {
+  color: rgba(255, 255, 255, 0.81);
+}
+.navbar-header-section a:hover {
+  color: #fff;
+}
+
+//Text Shadow
+.textsdw {
+  text-shadow: 0 1px 0 #4e4e4e, 0 2px 0 #414248, 0 2px 0 #bbb, 0 2px 0 #b9b9b9, 0 2px 0 #aaa, 0 4px 1px rgba(0,0,0,.1), 0 0 5px rgba(0,0,0,.1), 0 1px 3px rgba(0,0,0,.3), 0 3px 5px rgba(0,0,0,.2), 0 5px 10px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.2), 0 20px 20px rgba(0,0,0,.15);
+}
+
+//Primary Section
+.primary-section {
+  padding-top: 40px;
+  min-height: 600px;
+}
+.primary-section .card-body {
+  min-height: 250px;
+}
+.primary-section > .container {
+  margin-bottom: 50px;
+}
+
+//Breadcrumb
+.breadcrumb-section {
+  padding: 30px 0;
+  background-image: linear-gradient(134deg, #2A1942 0%, #5A358F  100%);
+  padding-top: 165px;
+  background-size: cover;
+  background-position: right;
+}
+
+//Content Section
+.content-section {
+  min-height: 600px;
+
+}
+
+//Footer
+.footer-section {
+  padding-top: 40px;
+  padding-bottom: 60px;
+  min-height: 250px;
+  background-color: #eee;
+}
+.footer-section-copyright {
+  font-size: 12px;
+}
+
+//Contact List
+.contact-list {
+  margin-top: 20px;
+  padding-left: 15px;
+
+}
+.contact-list > li {
+  list-style: none;
+
+  padding-bottom: 20px;
+
+}
+.contact-list > li > address {
+  font-size: 18px;
+}
+
+//Featured Header
+.featured-header {
+  text-align: center;
+}
+.featured-header h1 {
+  font-weight: 600 !important;
+  margin-bottom: 30px;
+}
+.featured-header .btn {
+  font-weight: 300;
+  color: #fff;
+}
+
+//Title Header
+.title-header {
+  text-align: center;
+  margin: 10px 20px 40px 20px;
+}
+
+//Contact
+.contact-wrapper {
+  padding: 40px 15px;
+  background-color: #bebfc2;
+
+  background-size: cover;
+}
+
+//Action Wrapper
+.action-wrapper {
+  padding: 30px 15px;
+}
+
+.action-wrapper .button-link {
+  opacity: .85;
+}
+
+.action-wrapper .button-link:hover {
+  opacity: 1;
+}
+
+.action-wrapper .button-link img {
+  opacity: .85;
+}
+
+.action-wrapper .button-link:hover img,
+.action-wrapper .button-link:focus img,
+.action-wrapper .button-link::selection img,
+.action-wrapper .button-link:active img {
+
+  opacity: 1;
+}
+
+.action-wrapper .button-link h4 {
+  opacity: .85;
+}
+
+.action-wrapper .button-link:hover h4,
+.action-wrapper .button-link:focus h4,
+.action-wrapper .button-link::selection h4,
+.action-wrapper .button-link:active h4 {
+
+  opacity: 1;
+}
+
+
+//Btn Up
+.btn-up {
+  opacity: .90;
+  font-weight: bold;
+  letter-spacing: 1.2px;
+  height: 50px;
+  width: 50px;
+  padding: 5px;
+  border-radius: 25px;
+  display: none;
+  position: fixed;
+  z-index: 2;
+  right: 30px;
+  bottom: 30px;
+}
+
+.btn-up:hover {
+  opacity: 100;
+}
+
+//Featured Small Item
+.f-small-item {
+  display: block;
+  background: #FFFFFF;
+  box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.08);
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  padding: 30px;
+  text-align: center;
+  -webkit-transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 30px;
+}
+.f-small-item .icon {
+  width: 67px;
+  height: 67px;
+  line-height: 70px;
+  margin: auto;
+  position: relative;
+  margin-bottom: 20px;
+  background: #F7FAFD;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  border-radius: 100%;
+}
+.f-small-item .featured-title {
+  font-weight: 400;
+  font-size: 16px;
+  color: #3B566E;
+  letter-spacing: 0.7px;
+  margin-bottom: 15px;
+  position: relative;
+  z-index: 2;
+  -webkit-transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+}
+.f-small-item p {
+  font-weight: 400;
+  font-size: 14px;
+  color: #7c76a4;
+  letter-spacing: 0.88px;
+  line-height: 26px;
+  position: relative;
+  z-index: 2;
+  -webkit-transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+  margin-bottom: 0px;
+}
+.f-small-item.active:before, .f-small-item:hover:before {
+  opacity: 1;
+}
+.f-small-item:before {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  left: 0px;
+  background: #5a417e;
+  -webkit-transition: all 0.4s ease 0s;
+  -moz-transition: all 0.4s ease 0s;
+  -o-transition: all 0.4s ease 0s;
+  transition: all 0.4s ease 0s;
+  opacity: 0;
+}
+.f-small-item.active div, .f-small-item:hover div {
+  color: #E5E9F7;
+}
+.f-small-item.active p, .f-small-item:hover p {
+  color: #E5E9F7;
+}
+
+//Steps
+.f-steps article .f-steps-icon-small {
+   /* position: absolute;
+    top: 0;
+    left: 20%;*/
+    z-index: 1;
+}
+.f-steps-icon-small {
+    background: rgb(112, 0, 0);
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+
+    width: 36px;
+    height: 36px;
+    position: relative;
+    border-radius: 50%;
+    margin: auto;
+    text-align: center;
+    line-height: 36px;
+}
+.f-steps article {
+  text-align: center;
+  position: relative;
+}
+@media (min-width: 576px) {
+    .f-steps article:after {
+        content: "";
+        position: absolute;
+        top: -50px;
+        width: 100%;
+        height: 100%;
+    }
+    .f-steps article:after {
+        right: -180px;
+    }
+}
+
+/*IMPORT HOVER CSS*/
+@import "../css/hover.css";
+
+/*IMPORT ANIMATE CSS*/
+@import "../css/animate.css";
+
+/*IMPORT FIANO*/
+@import "../css/finao.css";
